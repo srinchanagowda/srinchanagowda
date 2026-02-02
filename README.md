@@ -11,20 +11,20 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="srinchanagowda@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<!-- Animated GitHub Contribution Snake -->
 <!-- GitHub Contribution Snake (Light/Dark Mode) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srinchanagowda/srinchanagowda/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srinchanagowda/srinchanagowda/output/snake.svg" /
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srinchanagowda/srinchanagowda/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/srinchanagowda/srinchanagowda/output/snake.svg" />
 </picture>
-<img src="https://raw.githubusercontent.com/srinchanagowda/srinchanagowda/output/snake.gif" alt="GitHub Contribution Snake Animation" />
+
 ###
 
 <div>
