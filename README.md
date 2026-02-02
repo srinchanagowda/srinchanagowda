@@ -18,8 +18,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/srinchanagowda/srinchanagowda/output/snake.svg" alt="Snake animation" />
-
+<!-- Animated GitHub Contribution Snake -->
+<!-- GitHub Contribution Snake (Light/Dark Mode) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srinchanagowda/srinchanagowda/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srinchanagowda/srinchanagowda/output/snake.svg" /
+</picture>
+<img src="https://raw.githubusercontent.com/srinchanagowda/srinchanagowda/output/snake.gif" alt="GitHub Contribution Snake Animation" />
 ###
 
 <div>
