@@ -34,10 +34,10 @@
 ###
 ```ruby
 class Sy < Person
+
   def initialize
     @name = 'Srinchana R'
     @age = 21
-    @work = [  ]
     @education = [ 'Sri Adhichunchanagiri independent PU college', 'JNNCE shimoga']
     @hobbies = [ 'Dancing', 'Sketching']
   end
@@ -63,36 +63,7 @@ class Sy < Person
       reading: [ 'Adventures of Sherlock Holmes', 'Psychology of money' ]
      }
   end
-endclass Sy < Person
-  def initialize
-    @name = 'Srinchana R'
-    @age = 21
-    @work = [  ]
-    @education = [ 'Sri Adhichunchanagiri independent PU college', 'JNNCE shimoga']
-    @hobbies = [ 'Dancing', 'Sketching']
-  end
 
-  def languages
-    {
-      human: [ 'Kannada','English', 'Hindi', 'French', 'jappanese' ],
-      programming: ['Python', 'SQL' ]
-     }
-  end
-
-  def current_location
-    'Shivamogga','Karnataka','INDIA'
-  end
-
-  def next_locations
-    [ 'Bengaluru','Mumbai']
-  end
-
-  def currently
-    {
-      studying: [ 'python', 'Deep Learning', 'DSA','Machine learning','statistics + probablity','SQl' ],
-      reading: [ 'Adventures of Sherlock Holmes', 'Psychology of money' ]
-     }
-  end
 end
 ```
 ###
