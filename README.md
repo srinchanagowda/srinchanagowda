@@ -45,7 +45,7 @@ class Sy < Person
 
   def languages
     {
-      human: [ 'Kannada','English', 'Hindi', 'French', 'jappanese' ],
+      human: [ 'Kannada','English', 'Hindi', 'French', 'japanese' ],
       programming: ['Python', 'SQL' ]
      }
   end
